@@ -1,5 +1,5 @@
 # Data-Base-System
-Build a Web Application to manage a Resort's Data - HCMUT ( use PosgreSQL and Python )
+Build a Web Application to manage a Resort's Data - HCMUT (PosgreSQL / Python)
 
 ![PosgreSQL](https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-22ebbc4/www.aalpha.net/wp-content/uploads/2019/05/postgre-database-development-india.png)
 
