@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<head>
+<style>
+
+      
+
+</style>
+</head>
+<body background="https://chungcu365.com/uploads/22/a-119/20191211160802-763a.jpg
+" >
+    <!--<img src="https://chungcu365.com/uploads/22/a-119/20191211160802-763a.jpg" alt="Snow" style="width:100%;">-->
+    <h1 style="font-size:40px;" style="color:white;" style="text-align:center;" >Nhập tên khách hàng mà bạn muốn tìm thông tin </h1>
+    <form method="post">
+        <p>
+            <label for="username" style="text-align:left;"></label>
+            <!--<input type="text" name="username"
+                   placeholder="Username">-->
+            <input class="form-control" name="username" type="text" placeholder="Không dấu. VD: Nguyen Van A,..... ">
+            </input>
+        </p>
+        <p>
+            <button type="submit">Nhấn vào đây để tìm kiếm</button>
+        </p>
+    </form>
+</body>
+{% endblock %}
