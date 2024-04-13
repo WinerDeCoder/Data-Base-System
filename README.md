@@ -13,6 +13,7 @@ This project require to build a web application to manage data of a resort, Desi
 
 >[!NOTE]
 > PosgreSQL document [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)
+>
 > Flask document [https://flask.palletsprojects.com/en/3.0.x/](https://flask.palletsprojects.com/en/3.0.x/).
 
 
